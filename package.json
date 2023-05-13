@@ -1,0 +1,17 @@
+{
+  "name": "DindeGDPS String Replace",
+  "version": "1.0.0",
+  "description": "Quick GDPS Creation",
+  "main": "test.js",
+  "bin": {
+    "replace-strings": "test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "pkg": {
+    "scripts": "scripts/*.js",
+    "assets": [
+      "input.exe"
+    ]
+  }
+}
